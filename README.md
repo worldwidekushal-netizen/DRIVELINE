@@ -1,251 +1,527 @@
 <div align="center">
-<!-- ========================================================================================= -->
-<!--                              HERO BANNER & BRAND IDENTITY                                 -->
-<!-- ========================================================================================= -->
-<!-- OPTION A: Custom Local SVG Banner (Upload ./assets/kushalworldwide-banner.svg to use)     -->
-<!-- <img src="./assets/kushalworldwide-banner.svg" width="100%" alt="KUSHALWORLDWIDE — Building Intelligent Experiences. Engineering Digital Solutions." /> -->
-<!-- OPTION B: Live Dynamic Futuristic Banner (Renders out-of-the-box on GitHub immediately)   -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06080E,45:0D1117,75:1E1B4B,100:00F0FF&height=280&section=header&text=KUSHALWORLDWIDE&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Building%20Intelligent%20Experiences.%20Engineering%20Digital%20Solutions.&descSize=19&descAlignY=66&stroke=00F0FF&strokeWidth=1" width="100%" alt="KUSHALWORLDWIDE Hero Banner" />
-<!-- ========================================================================================= -->
-<!--                                  ANIMATED TYPING HEADER                                   -->
-<!-- ========================================================================================= -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=Full-Stack+Web+Developer+%7C+CSE+(AI+%26+ML)+Undergraduate;Building+Production-Ready+Web+Platforms+with+Next.js+%26+Python;Exploring+AI+Integration%2C+AI+Agents+%26+LLM-Powered+Systems;Turning+Ambitious+Ideas+into+Practical%2C+Working+Technology" alt="Animated Developer Tagline" />
-</a>
-<br />
-<!-- ========================================================================================= -->
-<!--                               QUICK NAVIGATION & SOCIAL BAR                               -->
-<!-- ========================================================================================= -->
-<p align="center">
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-KUSHALWORLDWIDE-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0D1117" alt="Personal Portfolio" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0D1117" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0D1117" alt="Email" />
-</a>
-<a href="YOUR_X_TWITTER_URL">
-<img src="https://img.shields.io/badge/X-FOLLOW-FFFFFF?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D1117" alt="X (Twitter)" />
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Location-India-0D1117?style=flat-square&logo=googlemaps&logoColor=00F0FF&color=1E293B" alt="Location: India" />
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(AI%20%26%20ML)%20'28-0D1117?style=flat-square&logo=academia&logoColor=7C3AED&color=1E293B" alt="B.Tech CSE AI & ML" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%20Integration-0D1117?style=flat-square&logo=sparkles&logoColor=00F0FF&color=1E293B" alt="Focus: Full-Stack & AI Integration" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F0FF&style=flat-square" alt="Profile Views" />
-</p>
-</div>
-<br />
-<!-- ========================================================================================= -->
-<!--                               01. PROFILE INTRODUCTION                                    -->
-<!-- ========================================================================================= -->
-⚡ 01 // IDENTITY & ENGINEERING VISION
-"I build digital experiences, engineer practical software solutions, explore intelligent systems, and turn ideas into working technology."
-<table>
-<tr>
-<td width="62%" valign="top">
-Hi, I'm Kushal (KUSHALWORLDWIDE)
-I am an undergraduate Computer Science and Engineering (Artificial Intelligence & Machine Learning) student at Kanpur Institute of Technology (KIT), Kanpur (Class of 2028), with a strong foundation in technical trade training (ITI NCVT, 2024).
-My work centers on building clean, secure, and responsive full-stack web applications while actively expanding into AI integration, intelligent agents, and LLM-powered workflows. Rather than treating software solely as academic coursework, I approach every project as an end-to-end engineering challenge—from database schema design and secure authentication to intuitive interfaces and production deployment.
-Current Academic Path: B.Tech in CSE (AI & ML) at KIT Kanpur (Expected 2028)
-Core Engineering Stack: Next.js, TypeScript, React, Python, Flask, Tailwind CSS, Prisma & PostgreSQL
-Active Exploration: AI Engineering, AI Agents, Generative AI APIs & Scalable Full-Stack Systems
-Long-Term Direction: Software Engineering, Applied AI Products & Technology Entrepreneurship
-</td>
-<td width="38%" valign="top">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
-<defs>
-<!-- Deep Futuristic Background Gradient -->
-<linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#05070B" />
-<stop offset="50%" stop-color="#0D1117" />
-<stop offset="100%" stop-color="#110C24" />
-</linearGradient>
-<!-- Electric Blue to Violet Accent Gradient -->
-<linearGradient id="neonAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#00F0FF" />
-<stop offset="50%" stop-color="#38BDF8" />
-<stop offset="100%" stop-color="#7C3AED" />
-</linearGradient>
-<!-- Radial Glows -->
-<radialGradient id="cyanGlow" cx="20%" cy="30%" r="45%">
-<stop offset="0%" stop-color="#00F0FF" stop-opacity="0.18" />
-<stop offset="100%" stop-color="#00F0FF" stop-opacity="0" />
-</radialGradient>
-<radialGradient id="violetGlow" cx="82%" cy="70%" r="45%">
-<stop offset="0%" stop-color="#7C3AED" stop-opacity="0.24" />
-<stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
-</radialGradient>
-<!-- Futuristic Tech Grid Pattern -->
-<pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-<path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.6" />
-</pattern>
-<!-- Glow Filter -->
-<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-<feGaussianBlur stdDeviation="4" result="blur" />
-<feComposite in="SourceGraphic" in2="blur" operator="over" />
-</filter>
-</defs>
-<style>
-.brand-title {
-font-family: 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
-font-weight: 900;
-font-size: 64px;
-letter-spacing: 8px;
-fill: #FFFFFF;
-}
-.tagline {
-font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-font-weight: 500;
-font-size: 18px;
-letter-spacing: 2px;
-fill: #00F0FF;
-}
-.sub-meta {
-font-family: 'Inter', 'Segoe UI', sans-serif;
-font-weight: 500;
-font-size: 14px;
-letter-spacing: 3px;
-fill: #94A3B8;
-}
-.hud-text {
-font-family: 'JetBrains Mono', monospace;
-font-size: 11px;
-fill: #64748B;
-letter-spacing: 1.5px;
-}
-.pulse-node {
-animation: pulse 3s infinite ease-in-out;
-}
-.scanline {
-animation: scan 6s infinite linear;
-}
-@keyframes pulse {
-0%, 100% { opacity: 0.35; }
-50% { opacity: 1; }
-}
-@keyframes scan {
-0% { transform: translateY(0px); opacity: 0.1; }
-50% { opacity: 0.35; }
-100% { transform: translateY(360px); opacity: 0.1; }
-}
-</style>
-<!-- Base Layers -->
-<rect width="1200" height="360" fill="url(#bgGrad)" rx="14" />
-<rect width="1200" height="360" fill="url(#techGrid)" rx="14" />
-<rect width="1200" height="360" fill="url(#cyanGlow)" rx="14" />
-<rect width="1200" height="360" fill="url(#violetGlow)" rx="14" />
-<!-- Subtle Horizontal Scanline -->
-<line x1="0" y1="0" x2="1200" y2="0" stroke="url(#neonAccent)" stroke-width="1.5" class="scanline" />
-<!-- Outer Frame & HUD Brackets -->
-<rect x="16" y="16" width="1168" height="328" fill="none" stroke="#1E293B" stroke-width="1.5" rx="10" />
-<path d="M 16 56 L 16 24 Q 16 16 24 16 L 56 16" fill="none" stroke="#00F0FF" stroke-width="3" filter="url(#glow)" />
-<path d="M 1144 16 L 1176 16 Q 1184 16 1184 24 L 1184 56" fill="none" stroke="#7C3AED" stroke-width="3" filter="url(#glow)" />
-<path d="M 16 304 L 16 336 Q 16 344 24 344 L 56 344" fill="none" stroke="#7C3AED" stroke-width="3" filter="url(#glow)" />
-<path d="M 1144 344 L 1176 344 Q 1184 344 1184 336 L 1184 304" fill="none" stroke="#00F0FF" stroke-width="3" filter="url(#glow)" />
-<!-- Futuristic Circuit Lines -->
-<path d="M 60 180 L 160 180 L 190 150 L 250 150" fill="none" stroke="#00F0FF" stroke-width="1.5" stroke-opacity="0.45" />
-<circle cx="60" cy="180" r="4" fill="#00F0FF" class="pulse-node" />
-<circle cx="250" cy="150" r="3" fill="#00F0FF" class="pulse-node" />
-<path d="M 1140 180 L 1040 180 L 1010 210 L 950 210" fill="none" stroke="#7C3AED" stroke-width="1.5" stroke-opacity="0.55" />
-<circle cx="1140" cy="180" r="4" fill="#7C3AED" class="pulse-node" />
-<circle cx="950" cy="210" r="3" fill="#7C3AED" class="pulse-node" />
-<!-- HUD Telemetry Metadata -->
-<text x="40" y="45" class="hud-text">SYS.ID // KUSHALWORLDWIDE</text>
-<text x="975" y="45" class="hud-text">STATUS // ONLINE • INDIA</text>
-<text x="40" y="325" class="hud-text">STACK // NEXT.JS • PYTHON • AI</text>
-<text x="955" y="325" class="hud-text">B.TECH CSE (AI & ML) '28</text>
-<!-- Main Brand Identity -->
-<text x="600" y="165" text-anchor="middle" class="brand-title">KUSHALWORLDWIDE</text>
-<!-- Neon Divider Bar -->
-<rect x="350" y="190" width="500" height="3" fill="url(#neonAccent)" rx="1.5" filter="url(#glow)" />
-<!-- Developer Tagline -->
-<text x="600" y="232" text-anchor="middle" class="tagline">
-Building Intelligent Experiences. Engineering Digital Solutions.
-</text>
-<!-- Subtitle -->
-<text x="600" y="272" text-anchor="middle" class="sub-meta">
-FULL-STACK DEVELOPER  •  AI & ML UNDERGRADUATE  •  SOFTWARE ENGINEER IN TRAINING
-</text>
-</svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="100%" height="100%">
-<defs>
-<linearGradient id="hudBg" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#080B12" />
-<stop offset="50%" stop-color="#0D1117" />
-<stop offset="100%" stop-color="#080B12" />
-</linearGradient>
-<linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#00F0FF" />
-<stop offset="50%" stop-color="#7C3AED" />
-<stop offset="100%" stop-color="#00F0FF" />
-</linearGradient>
-</defs>
-<style>
-.card-title {
-font-family: 'JetBrains Mono', 'Consolas', monospace;
-font-size: 13px;
-font-weight: 700;
-fill: #00F0FF;
-letter-spacing: 1.5px;
-}
-.card-title-violet {
-font-family: 'JetBrains Mono', 'Consolas', monospace;
-font-size: 13px;
-font-weight: 700;
-fill: #A78BFA;
-letter-spacing: 1.5px;
-}
-.card-body {
-font-family: 'Inter', 'Segoe UI', sans-serif;
-font-size: 12px;
-fill: #CBD5E1;
-}
-.card-sub {
-font-family: 'JetBrains Mono', monospace;
-font-size: 11px;
-fill: #64748B;
-}
-.flow-line {
-stroke-dasharray: 8 6;
-animation: dash 12s linear infinite;
-}
-@keyframes dash {
-to { stroke-dashoffset: -240; }
-}
-</style>
-<rect width="1000" height="180" rx="12" fill="url(#hudBg)" stroke="#1E293B" stroke-width="1.5" />
-<!-- Connecting Animated Pipeline -->
-<line x1="310" y1="90" x2="365" y2="90" stroke="url(#lineGrad)" stroke-width="2" class="flow-line" />
-<line x1="635" y1="90" x2="690" y2="90" stroke="url(#lineGrad)" stroke-width="2" class="flow-line" />
-<!-- Pillar 1: Full-Stack Engineering -->
-<g transform="translate(30, 24)">
-<rect width="280" height="132" rx="8" fill="#0D1117" stroke="#00F0FF" stroke-opacity="0.45" stroke-width="1.2" />
-<text x="20" y="32" class="card-title">01 // FULL-STACK CORE</text>
-<text x="20" y="60" class="card-body">Next.js 15, TypeScript, React,</text>
-<text x="20" y="80" class="card-body">Python, Flask & Tailwind CSS</text>
-<text x="20" y="110" class="card-sub">STATUS: PRODUCTION DEPLOYED</text>
-</g>
-<!-- Pillar 2: Data & Security Layer -->
-<g transform="translate(360, 24)">
-<rect width="280" height="132" rx="8" fill="#0D1117" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1.2" />
-<text x="20" y="32" class="card-title-violet">02 // DATA & SECURITY</text>
-<text x="20" y="60" class="card-body">PostgreSQL, Supabase, Prisma,</text>
-<text x="20" y="80" class="card-body">SQLite, 2FA & Auth Systems</text>
-<text x="20" y="110" class="card-sub">STATUS: VERIFIED ARCHITECTURE</text>
-</g>
-<!-- Pillar 3: AI & Intelligent Systems -->
-<g transform="translate(690, 24)">
-<rect width="280" height="132" rx="8" fill="#0D1117" stroke="#00F0FF" stroke-opacity="0.45" stroke-width="1.2" />
-<text x="20" y="32" class="card-title">03 // INTELLIGENT SYSTEMS</text>
-<text x="20" y="60" class="card-body">AI Integration, LLM Workflows,</text>
-<text x="20" y="80" class="card-body">AI Agents & AR/VR Exploration</text>
-<text x="20" y="110" class="card-sub">STATUS: ACTIVE R&D FOCUS</text>
-</g>
-</svg>
 
+<!-- HERO BANNER (Switch src to ./assets/kushalworldwide-banner.png if preferred) -->
+<img src="./assets/kushalworldwide-banner.png" alt="KUSHALWORLDWIDE — Building Intelligent Experiences. Engineering Digital Solutions." width="100%" />
+
+<br />
+
+<!-- ANIMATED TYPING SUBTITLE -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=42&lines=Full-Stack+Developer+%26+AI%2FML+Undergraduate;Building+Digital+Experiences+%26+Practical+Software;Exploring+AI+Agents%2C+LLMs+%26+Intelligent+Systems;Turning+Ideas+Into+Working+Technology" alt="KUSHALWORLDWIDE — Full-Stack Developer & AI/ML Undergraduate" />
+</a>
+
+<br />
+
+<!-- QUICK ACTION & IDENTITY BADGES -->
+<p>
+  <a href="[YOUR_PORTFOLIO_URL]">
+    <img src="https://img.shields.io/badge/PORTFOLIO-KUSHALWORLDWIDE-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0D1117" alt="GitHub" />
+  </a>
+  <a href="[YOUR_X_TWITTER_URL]">
+    <img src="https://img.shields.io/badge/X_(TWITTER)-UPDATES-0D1117?style=for-the-badge&logo=x&logoColor=38BDF8&labelColor=0D1117" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0D1117" alt="Email" />
+  </a>
+</p>
+
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
+
+</div>
+
+## 01 // IDENTITY & OVERVIEW
+
+> *"I build digital experiences, engineer practical software solutions, explore intelligent systems, and turn ideas into working technology."*
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>About KUSHALWORLDWIDE</h3>
+      <p>
+        I am <strong>Kushal</strong> (<strong>KUSHALWORLDWIDE</strong>), a Computer Science and Engineering undergraduate specializing in <strong>Artificial Intelligence &amp; Machine Learning</strong> at <strong>Kanpur Institute of Technology (KIT), Kanpur</strong> (Expected Graduation: <strong>2028</strong>), building upon a technical and vocational foundation from <strong>ITI (NCVT, 2024)</strong>.
+      </p>
+      <p>
+        My work sits at the intersection of <strong>Full-Stack Web Engineering</strong>, <strong>AI Integration</strong>, and <strong>Technology Entrepreneurship</strong>. From architecting full-stack web platforms with authentication, database modeling, and administrative workflows to exploring LLM-powered applications and autonomous AI agents, I focus on translating ideas into clean, functional software.
+      </p>
+      <ul>
+        <li><strong>Engineering Mindset:</strong> Structured architecture, secure authentication flows, and responsive user interfaces.</li>
+        <li><strong>AI Exploration:</strong> Actively building fluency in Generative AI, LLM integration, and intelligent automation.</li>
+        <li><strong>Ecosystem Engagement:</strong> Representing technical communities as a <strong>TIC 2026 Campus Ambassador</strong> and participating in national hackathons and AI summits.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img src="./assets/system-telemetry.png" alt="KUSHALWORLDWIDE System Telemetry — Kushal, B.Tech CSE AI & ML, KIT Kanpur" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 02 // TECHNICAL ARSENAL
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,flask,postgres,supabase,sqlite,prisma,git,github,vscode,postman,vercel&theme=dark&perline=10" alt="Core Technology Stack Icons" />
+  </p>
+</div>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="26%">Domain</th>
+      <th align="left" width="74%">Technologies, Frameworks &amp; Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=38BDF8" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+        <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="SQL" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+        <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=8B5CF6" alt="Framer Motion" />
+        <img src="https://img.shields.io/badge/Responsive_Web_Design-0D1117?style=flat-square&logoColor=38BDF8" alt="Responsive Web Design" />
+        <img src="https://img.shields.io/badge/UI%2FUX_Implementation-0D1117?style=flat-square&logo=figma&logoColor=8B5CF6" alt="UI/UX Implementation" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js_(Fundamentals)-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js Fundamentals" />
+        <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" />
+        <img src="https://img.shields.io/badge/REST_API_Development-0D1117?style=flat-square&logo=fastapi&logoColor=38BDF8" alt="REST API Development" />
+        <img src="https://img.shields.io/badge/Authentication_Systems-0D1117?style=flat-square&logo=auth0&logoColor=8B5CF6" alt="Authentication Systems" />
+        <img src="https://img.shields.io/badge/Backend_Integration-0D1117?style=flat-square&logoColor=38BDF8" alt="Backend Integration" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases &amp; ORM</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=38BDF8" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Prisma_ORM-0D1117?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma ORM" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>AI &amp; Emerging Tech</strong><br /><sub><em>(Active Learning &amp; Dev Focus)</em></sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logo=openai&logoColor=38BDF8" alt="Artificial Intelligence" />
+        <img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logoColor=8B5CF6" alt="AI Integration" />
+        <img src="https://img.shields.io/badge/AI_Agent_Concepts-0D1117?style=flat-square&logoColor=38BDF8" alt="AI Agent Concepts" />
+        <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&logoColor=8B5CF6" alt="Generative AI" />
+        <img src="https://img.shields.io/badge/LLM--Powered_Apps-0D1117?style=flat-square&logoColor=38BDF8" alt="LLM-Powered Applications" />
+        <img src="https://img.shields.io/badge/Intelligent_Automation-0D1117?style=flat-square&logoColor=8B5CF6" alt="Intelligent Automation" />
+        <img src="https://img.shields.io/badge/AR%2FVR_Concepts-0D1117?style=flat-square&logoColor=38BDF8" alt="AR/VR Concepts" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools &amp; Platforms</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+        <img src="https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" />
+        <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+        <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Windows_Dev_Env-0D1117?style=flat-square&logo=windows&logoColor=0078D6" alt="Windows Development Environment" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 03 // FEATURED PROJECTS
+
+<table width="100%">
+  <!-- PROJECT 1 -->
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="./assets/project-portfolio.png" alt="KUSHALWORLDWIDE Full-Stack Developer Portfolio" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+      <h3>01. KUSHALWORLDWIDE | Full-Stack Developer Portfolio</h3>
+      <p>
+        Personal full-stack developer portfolio platform engineered for dynamic content delivery, administrative control, and modern security workflows.
+      </p>
+      <ul>
+        <li>Built dynamic project and portfolio content management backed by <strong>Prisma ORM</strong> and <strong>Supabase PostgreSQL</strong>.</li>
+        <li>Engineered a custom administrative dashboard alongside backend API endpoints and database integration.</li>
+        <li>Implemented security-focused authentication including <strong>Two-Factor Authentication (2FA)</strong> and password recovery flows.</li>
+        <li>Crafted responsive interfaces, interactive animations, and production deployment optimization.</li>
+      </ul>
+      <p>
+        <code>Next.js 15</code> <code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Prisma</code> <code>Supabase PostgreSQL</code>
+      </p>
+      <p>
+        <a href="[YOUR_PORTFOLIO_REPO_URL]"><strong>Repository (Placeholder)</strong></a> &nbsp;|&nbsp;
+        <a href="[YOUR_PORTFOLIO_LIVE_URL]"><strong>Live Demo (Placeholder)</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 2 -->
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="./assets/project-driveline.png" alt="DriveLine Automotive Experience Platform" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+      <h3>02. DriveLine | Automotive Experience Platform</h3>
+      <p>
+        Lamborghini-inspired automotive digital showcase combining Python backend engineering with interactive vehicle exploration concepts.
+      </p>
+      <ul>
+        <li>Developed Python backend architecture using <strong>Flask</strong> and relational storage with <strong>SQLite</strong>.</li>
+        <li>Implemented user authentication flows and administrative management capabilities.</li>
+        <li>Designed interactive automotive specification views and explored <strong>AR-based automobile experience</strong> concepts.</li>
+      </ul>
+      <p>
+        <code>Python</code> <code>Flask</code> <code>SQLite</code> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>AR Exploration</code>
+      </p>
+      <p>
+        <a href="[YOUR_DRIVELINE_REPO_URL]"><strong>Repository (Placeholder)</strong></a> &nbsp;|&nbsp;
+        <a href="[YOUR_DRIVELINE_DEMO_URL]"><strong>Live Demo (Placeholder)</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 3 -->
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="./assets/project-chatbot.png" alt="JavaScript Chatbot" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+      <h3>03. JavaScript Chatbot</h3>
+      <p>
+        Interactive conversational web application built to explore client-side state handling, dynamic DOM rendering, and responsive user interaction.
+      </p>
+      <ul>
+        <li>Engineered modular JavaScript application logic for real-time message handling and response flow.</li>
+        <li>Designed a clean, accessible conversational interface focused on intuitive user interaction.</li>
+      </ul>
+      <p>
+        <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Conversational UI</code>
+      </p>
+      <p>
+        <a href="[YOUR_CHATBOT_REPO_URL]"><strong>Repository (Placeholder)</strong></a> &nbsp;|&nbsp;
+        <a href="[YOUR_CHATBOT_DEMO_URL]"><strong>Live Demo (Placeholder)</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 4 -->
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="./assets/project-certgen.png" alt="Certificate Generator" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+      <h3>04. Certificate Generator</h3>
+      <p>
+        Digital certificate generation utility built to automate credential layout creation and structured document output.
+      </p>
+      <ul>
+        <li>Automated dynamic recipient data binding and formatted digital certificate generation.</li>
+        <li>Streamlined repeatable document creation workflows for events and academic initiatives.</li>
+      </ul>
+      <p>
+        <code>Document Automation</code> <code>Web Development</code> <code>JavaScript / Python</code>
+      </p>
+      <p>
+        <a href="[YOUR_CERT_GENERATOR_REPO_URL]"><strong>Repository (Placeholder)</strong></a> &nbsp;|&nbsp;
+        <a href="[YOUR_CERT_GENERATOR_DEMO_URL]"><strong>Live Demo (Placeholder)</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 5 -->
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="./assets/project-experiments.png" alt="Full-Stack Web Development Experiments" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+      <h3>05. Full-Stack Web Development Experiments</h3>
+      <p>
+        Dedicated engineering sandbox focused on rapid prototyping, architectural patterns, and end-to-end web application mechanics.
+      </p>
+      <ul>
+        <li>Hands-on experimentation across frontend component architecture, REST API integration, and database schemas.</li>
+        <li>Iterative builds testing authentication mechanisms, responsive layouts, and UI/UX interactions.</li>
+      </ul>
+      <p>
+        <code>Full-Stack Architecture</code> <code>REST APIs</code> <code>Databases</code> <code>Authentication</code> <code>UI/UX</code>
+      </p>
+      <p>
+        <a href="[YOUR_EXPERIMENTS_REPO_URL]"><strong>Repository (Placeholder)</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 04 // EXPERIENCE, OPPORTUNITIES & JOURNEY
+
+### Professional Activities & Ecosystem Engagements
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="24%">Category</th>
+      <th align="left" width="46%">Role / Program / Event</th>
+      <th align="left" width="30%">Status / Engagement Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Campus Leadership</strong></td>
+      <td><strong>TIC 2026</strong> — Campus Ambassador</td>
+      <td><code>Campus Ambassador</code></td>
+    </tr>
+    <tr>
+      <td><strong>Internship Program</strong></td>
+      <td><strong>Agnirva Space</strong> — Space Internship</td>
+      <td><code>Internship Experience</code></td>
+    </tr>
+    <tr>
+      <td><strong>Offers &amp; Opportunities</strong></td>
+      <td><strong>CodeVeda</strong> &amp; <strong>Proxenix</strong></td>
+      <td><code>Received Offers / Opportunities</code></td>
+    </tr>
+    <tr>
+      <td><strong>Internship Shortlist</strong></td>
+      <td><strong>WorkYug / YugaYatra Retail</strong> — Web Developer Internship</td>
+      <td><code>Shortlisted Candidate</code></td>
+    </tr>
+    <tr>
+      <td><strong>Hackathon</strong></td>
+      <td><strong>Code for Bharat — Season 2</strong></td>
+      <td><code>Participant</code></td>
+    </tr>
+    <tr>
+      <td><strong>AI Industry Event</strong></td>
+      <td><strong>Thoughtworks AI Fusion</strong></td>
+      <td><code>Participant</code></td>
+    </tr>
+    <tr>
+      <td><strong>Cloud &amp; AI Summit</strong></td>
+      <td><strong>AWS India AI Summit</strong></td>
+      <td><code>Participant</code></td>
+    </tr>
+  </tbody>
+</table>
+
+### Education & Technical Timeline
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="22%">Timeline</th>
+      <th align="left" width="48%">Program / Milestone</th>
+      <th align="left" width="30%">Institution / Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>2024 – 2028</strong> <sub><em>(Expected)</em></sub></td>
+      <td><strong>B.Tech in Computer Science &amp; Engineering (AI &amp; ML)</strong></td>
+      <td>Kanpur Institute of Technology (KIT), Kanpur</td>
+    </tr>
+    <tr>
+      <td><strong>2025 – 2026</strong></td>
+      <td><strong>Full-Stack Engineering, AI Exploration &amp; Technical Summits</strong></td>
+      <td>TIC 2026, Agnirva, Thoughtworks AI Fusion, AWS India AI Summit, Code for Bharat S2</td>
+    </tr>
+    <tr>
+      <td><strong>2024</strong></td>
+      <td><strong>ITI (NCVT) Qualification</strong></td>
+      <td>National Council for Vocational Training (<strong>91%</strong>)</td>
+    </tr>
+    <tr>
+      <td><strong>Academic Base</strong></td>
+      <td><strong>Higher Secondary (Class 12) &amp; Secondary (Class 10)</strong></td>
+      <td>Class 12: <strong>59%</strong> &nbsp;|&nbsp; Class 10: <strong>79%</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 05 // CERTIFICATIONS & VERIFIED LEARNING
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="38%">Certification / Qualification</th>
+      <th align="left" width="34%">Issuing Body / Context</th>
+      <th align="left" width="28%">Notes &amp; Credential</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Python Programming</strong></td>
+      <td>SWAYAM</td>
+      <td><a href="[YOUR_SWAYAM_CREDENTIAL_URL]">Credential Link (Placeholder)</a></td>
+    </tr>
+    <tr>
+      <td><strong>Advanced Ethical Hacking</strong></td>
+      <td>YHills</td>
+      <td>February 2025 &nbsp;•&nbsp; <a href="[YOUR_YHILLS_CREDENTIAL_URL]">Credential</a></td>
+    </tr>
+    <tr>
+      <td><strong>HTML &amp; CSS Bootcamp</strong></td>
+      <td>NSDC / ITM</td>
+      <td><a href="[YOUR_HTML_CSS_CREDENTIAL_URL]">Credential Link (Placeholder)</a></td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript Bootcamp</strong></td>
+      <td>Web Development Bootcamp</td>
+      <td><a href="[YOUR_JS_BOOTCAMP_CREDENTIAL_URL]">Credential Link (Placeholder)</a></td>
+    </tr>
+    <tr>
+      <td><strong>NISM / SEBI Quiz Achievement</strong></td>
+      <td>NISM / SEBI</td>
+      <td>Score: <strong>95%</strong> &nbsp;•&nbsp; <a href="[YOUR_NISM_SEBI_CREDENTIAL_URL]">Credential</a></td>
+    </tr>
+    <tr>
+      <td><strong>Course on Computer Concepts (CCC)</strong></td>
+      <td>NIELIT</td>
+      <td><a href="[YOUR_CCC_CREDENTIAL_URL]">Credential Link (Placeholder)</a></td>
+    </tr>
+    <tr>
+      <td><strong>ITI (NCVT) Qualification</strong></td>
+      <td>NCVT (2024)</td>
+      <td>Score: <strong>91%</strong> &nbsp;•&nbsp; <a href="[YOUR_ITI_CREDENTIAL_URL]">Credential</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 06 // CURRENTLY EXPLORING
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><strong>AI Engineering &amp; LLM Integration:</strong> Building practical applications powered by Large Language Models and structured context workflows.</li>
+        <li><strong>AI Agents:</strong> Exploring autonomous agent patterns, tool-calling orchestration, and multi-step task execution.</li>
+        <li><strong>Intelligent Automation:</strong> Designing automated workflows that connect APIs, data pipelines, and AI capabilities.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><strong>Advanced Full-Stack Architecture:</strong> Refining modular Next.js, TypeScript, and relational database design patterns.</li>
+        <li><strong>Secure Authentication Systems:</strong> Implementing multi-factor authentication (2FA), session hardening, and recovery workflows.</li>
+        <li><strong>Scalable Web Applications:</strong> Performance tuning, clean API design, and maintainable production deployments.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 07 // GITHUB ANALYTICS
+
+<div align="center">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0&ring_color=38BDF8" alt="KUSHALWORLDWIDE GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="KUSHALWORLDWIDE Top Languages" height="175" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="KUSHALWORLDWIDE GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=38BDF8&area=true&hide_border=true" alt="KUSHALWORLDWIDE Contribution Activity Graph" width="95%" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="./assets/neon-divider.svg" alt="" width="100%" />
+</div>
+
+## 08 // CONNECT WITH ME
+
+<div align="center">
+
+<p>Open to software engineering collaborations, internship opportunities, AI/full-stack builds, and founder conversations.</p>
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  </a>
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="[YOUR_PORTFOLIO_URL]">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0D1117?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Personal Portfolio" />
+  </a>
+  <a href="[YOUR_X_TWITTER_URL]">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-0D1117?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X (Twitter)" />
+  </a>
+</p>
+
+<p>
+  <a href="[YOUR_INSTAGRAM_URL]">
+    <img src="https://img.shields.io/badge/Instagram-Profile-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" />
+  </a>
+  <a href="[YOUR_FACEBOOK_URL]">
+    <img src="https://img.shields.io/badge/Facebook-Profile-0D1117?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Gmail" />
+  </a>
+  <a href="[YOUR_WHATSAPP_LINK]">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+</p>
+
+<br />
+
+<!-- FOOTER -->
+<img src="./assets/kushalworldwide-pulse.gif" alt="KUSHALWORLDWIDE Pulse" width="85%" />
+
+<br /><br />
+
+<strong>KUSHALWORLDWIDE</strong> &nbsp;•&nbsp; <em>"Think. Build. Experiment. Evolve."</em>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views Counter" />
+
+</div>
